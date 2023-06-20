@@ -1,0 +1,2 @@
+total 0
+-rw-rw-r-- 1 desd desd 0 Jun 21 03:22 abc.txt
